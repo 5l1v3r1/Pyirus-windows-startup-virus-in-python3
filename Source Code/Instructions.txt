@@ -6,5 +6,11 @@ to start the program , you can even run using IDLE:-
 
 py pyirus.py
 
-NOTE: This software is for windows only . 
+NOTE :This software is for windows only .
+
+This software is not a virus and does no malicious activity . It simply scares the users on whom it is tested.
+To undo the changes of pyirus run the pyirus remover program as an administrator, however this doesn't gurantee complete removal
+and it willnot undo changes incase you tried custom/unoffical/modified version of pyirus.
+
+USE AT YOUR OWN RISK. DEVELOPER WILL NOT BE RESPONSIBLE FOR ANY DAMAGES.
 
